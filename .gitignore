@@ -1,0 +1,4 @@
+db.cnf
+todo_env
+.env
+__pycache__
